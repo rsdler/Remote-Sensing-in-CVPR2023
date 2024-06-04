@@ -1,6 +1,6 @@
 # Remote Sensing in CVPR2023
 
-#### Papers related to remote sensing in CVPR2023
+#### Papers related to remote sensing in CVPR 2023
 
 
 #### 1. TopDiG: Class-agnostic Topological Directional Graph Extraction from Remote Sensing Images
