@@ -31,7 +31,11 @@
 * Paper : [CVPR paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.html)
 * Code : https://github.com/yjybuaa/RGBDAerialTracking
 
-#### 7. MethaneMapper: Spectral Absorption Aware Hyperspectral Transformer for Methane Detection
+#### 7. Uncertainty-Aware Vision-Based Metric Cross-View Geolocalization
+* Paper : [CVPR paper](https://openaccess.thecvf.com/content/CVPR2023/html/Fervers_Uncertainty-Aware_Vision-Based_Metric_Cross-View_Geolocalization_CVPR_2023_paper.html)
+* Page : https://fferflo.github.io/projects/vismetcvgl23/
+
+#### 8. MethaneMapper: Spectral Absorption Aware Hyperspectral Transformer for Methane Detection
 
 * Paper : [CVPR paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kumar_MethaneMapper_Spectral_Absorption_Aware_Hyperspectral_Transformer_for_Methane_Detection_CVPR_2023_paper.html)
 
